@@ -1,0 +1,3 @@
+# Contributing
+
+Contributions from learners, educators and developers are welcome. Open an issue, propose a targeted fix and add reproducible testing instructions. Avoid breaking offline functionality. Never include credentials, personal data, copyrighted third-party content without permission or user notes in sample code. Contributions are offered under the MIT licence; authors retain applicable copyrights.
